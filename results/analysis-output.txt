@@ -1,0 +1,7 @@
+=== Authentication Log Analysis ===
+
+Source IP: 185.220.101.45
+Target User: admin
+Failed Attempts: 27
+Alert: Potential brute-force activity detected
+CRITICAL: Successful login occurred after repeated failures
